@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <baseurl><![CDATA[http://www.propertyguru.com.sg/]]></baseurl>
+  <reportpath><![CDATA[c:\extentReport\]]></reportpath>
+  <reportfilename>TestReport</reportfilename>
+  <pageloadtimeout>300</pageloadtimeout>
+  <elementtimeout>30</elementtimeout>
+</settings>
